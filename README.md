@@ -1,4 +1,4 @@
-👋 Hi! I'm Ria, a recent graduate of Computer Science at Virginia Tech College of Engineering.
+👋 Hi! I'm Ria.
 <br>
 👩‍💻 I love working on inspirational team-based projects -- check them out in Repositories!
 <br>
