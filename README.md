@@ -2,7 +2,7 @@
 <br>
 👩‍💻 I love working on inspirational team-based projects - check them out in Repositories!
 <br>
-🌱 Relevant Skills: C • Python • Java • Linux • Bash • Swift • Kotlin • Git • Web Development • Teamwork • Leadership
+🌱 Relevant Skills: Java • C • Python • Linux • Bash • Swift • Kotlin • Git • Web Development • Teamwork • Leadership
 <!---
 - 👋 Hi, I’m Ria
 - 👀 I’m interested in ...
