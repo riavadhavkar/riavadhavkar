@@ -1,4 +1,4 @@
-👋 Hi! I'm Ria
+👋 Hi! I'm Ria.
 <br>
 👩‍💻 I love working on inspirational team-based projects - check them out in Repositories!
 <br>
