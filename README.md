@@ -1,6 +1,6 @@
-👋 Hi! I'm Ria.
+👋 Hi! I'm Ria
 <br>
-👩‍💻 I love working on inspirational team-based projects - check them out in Repositories!
+👩‍💻 check out my projects below!
 <br>
 🌱 Relevant Skills: Java • C • Python • Linux • Bash • Swift • Kotlin • Git • Web Development • Teamwork • Leadership
 <!---
