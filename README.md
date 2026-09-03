@@ -1,8 +1,8 @@
-👋 Hi! I'm Ria
-<br>
+👋 hoi hoi thanks for stopping by my github! feel free to explore my personal portfolio as well @ riavadhavkar.com
+<!-- <br>
 👩‍💻 check out my projects below!
 <br>
-🌱 Relevant Skills: Java • C • Python • Linux • Bash • Swift • Kotlin • Git • Web Development • Teamwork • Leadership
+🌱 Relevant Skills: Java • C • Python • Linux • Bash • Swift • Kotlin • Git • Web Development • Teamwork • Leadership -->
 <!---
 - 👋 Hi, I’m Ria
 - 👀 I’m interested in ...
