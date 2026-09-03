@@ -1,4 +1,4 @@
-👋 hoi hoi thanks for stopping by my github! feel free to explore my personal portfolio as well @ [riavadhavkar.com](https://www.riavadhavkar.com/)
+👀 hoi hoi, thanks for stopping by my github profile! feel free to explore my personal portfolio @ [riavadhavkar.com](https://www.riavadhavkar.com/)
 <!-- <br>
 👩‍💻 check out my projects below!
 <br>
